@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Aposentadoria</string>
+    <string name="title">Calcule quanto tempo falta para sua aposentadoria!</string>
+    <string name="hint_idade">Digite sua idade</string>
+    <string name="button_calcular">CALCULAR</string>
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+    <string name="erro_idade">Por favor, insira uma idade válida.</string>
+    <string name="aposentadoria_erro">Você já pode se aposentar!</string>
+    <string name="anos_faltando">Faltam %1$d anos para sua aposentadoria.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Cor de fundo -->
+    <color name="background_color">#E3F2FD</color> <!-- Azul claro -->
+    <!-- Cor da barra de status -->
+    <color name="status_bar_color">#1E88E5</color> <!-- Azul médio -->
+    <!-- Cor do texto principal -->
+    <color name="text_color_primary">#0D47A1</color> <!-- Azul escuro -->
+    <!-- Cor do texto secundário -->
+    <color name="text_color_secondary">#64B5F6</color> <!-- Azul mais suave -->
+    <!-- Cor de destaque/accent -->
+    <color name="accent_color">#1976D2</color> <!-- Azul mais vibrante -->
+</resources>
